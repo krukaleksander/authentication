@@ -1,7 +1,7 @@
-import './App.css';
+import Signup from './components/Signup';
 
 const App = () => {
-  return <h1>Authentication project</h1>
+  return <Signup />
 }
 
 export default App;
